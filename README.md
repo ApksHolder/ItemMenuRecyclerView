@@ -1,1 +1,1 @@
-# SwipeMenuRecyclerView
+# SwipeItemMenuRecyclerView
