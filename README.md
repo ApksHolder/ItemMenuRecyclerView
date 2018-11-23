@@ -1,2 +1,2 @@
-# Sliding
-SlidingItemMenuRecyclerView
+# SlidingItemMenuRecyclerView
+
